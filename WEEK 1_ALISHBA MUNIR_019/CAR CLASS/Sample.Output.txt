@@ -1,0 +1,16 @@
+speed:150
+angle:45.0
+Total object = 4
+150 45.0
+speed:100
+angle:0.0
+Total object = 4
+100 0.0
+speed:200
+angle:35.0
+Total object = 4
+200 35.0
+speed:100
+angle:0.0
+Total object = 4
+100 0.0
