@@ -3,29 +3,48 @@ import OOP.point;
 
 public class Main {
     public static void main(String[] args) {
-        point p1 = new point();
-        point p2 = new point(2,7);
-        point p3 = new point(3,6);
-        point p4 = new point(p1);
-        point p5 = new point();
-        point p6 = new point();
-        point newPoint1 = p2.addPoint(p3);
-        point newPoint2 = p2.subPoint(p3);
-        point newPoint3= p2.multiPoint(p3);
-        point newPoint4 = p2.divPoint(p4);
+        Point p1 = new Point();
+        Point p2 = new Point(2,7);
+        Point p3 = new Point(3,6);
+        Point p4 = new Point(p1);
+        Point p5 = new Point();
+        Point p6 = new Point();
+        Point newPoint1 = p2.addPoint(p3);
+        Point newPoint2 = p2.subPoint(p3);
+        Point newPoint3= p2.multiPoint(p3);
+        Point newPoint4 = p2.divPoint(p4);
+        float d = p3.distanceTo(p2); // toDistance method
 
-        p5.setData(1,8);
+        System.out.println("p1 = ");
         p1.display();
+        System.out.println("p2 = ");
         p2.display();
+        System.out.println("p3 = ");
         p3.display();
+        System.out.println("p4 = ");
         p4.display();
+
+        System.out.println("Set data");
+        p5.setData(1,8);
+        System.out.println("p5 = ");
         p5.display();
 
+
+
+        System.out.println("Location =  ");
         p6.locate();
+        System.out.println("Add point");
         System.out.println(newPoint1);
+        System.out.println("Subtract point");
         System.out.println(newPoint2);
+        System.out.println("Multiply point");
         System.out.println(newPoint3);
+        System.out.println("Divide point");
         System.out.println(newPoint4);
+        System.out.printf("Distance between two points =  %.2f %n ",d);
+
+        System.out.println("Point object count = " + Point.getCount());
+
 
 //        for line
         line L1 =  new line(); // null constructor
