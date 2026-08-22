@@ -1,0 +1,47 @@
+"C:\Program Files\Java\jdk-26\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1\lib\idea_rt.jar=51114" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\HelloEveryone\out\production\welcomeAlishba Main
+p1 = 
+x = 1.0 y = 1.0
+p2 = 
+x = 2.0 y = 7.0
+p3 = 
+x = 3.0 y = 6.0
+p4 = 
+x = 1.0 y = 1.0
+Set data
+p5 = 
+x = 1.0 y = 8.0
+Location =  
+x = 1.0 y = 1.0
+Add point
+x = 5.0 y = 13.0
+Subtract point
+x = -1.0 y = 1.0
+Multiply point
+x = 6.0 y = 42.0
+Divide point
+x = 2.0 y = 7.0
+Distance between two points =  1.41 
+ Point object count = 10
+Triangle 1 =
+Point p1 =x = 2.0 y = 4.0
+Point p2 =x = 5.0 y = 6.0
+Point p3 =x = 7.0 y = 8.0
+Triangle 2 =
+Point p1 =x = 1.0 y = 1.0
+Point p2 =x = 2.0 y = 7.0
+Point p3 =x = 3.0 y = 6.0
+Triangle 3 =
+Point p1 =x = 2.0 y = 4.0
+Point p2 =x = 5.0 y = 6.0
+Point p3 =x = 7.0 y = 8.0
+set triangle t4
+Point p1 =x = 1.0 y = 1.0
+Point p2 =x = 2.0 y = 7.0
+Point p3 =x = 3.0 y = 6.0
+triangle t1 sides = [ 3.61, 2.83, 6.40 ]
+perimeter = 12.84 
+area = 1.00 
+Type By Side =  scalene Triangle
+Triangle Count = 4
+
+Process finished with exit code 0
