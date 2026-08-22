@@ -64,8 +64,10 @@ public class Main {
         point intersect = L2.intersection(L3);
         System.out.println(" The Intersection is :");
         System.out.println(intersect);
-
+        
+        System.out.println(" Line 4 is :");
         L4.display();
+        System.out.println(" Set Line 5 is :");
         L5.setPoints(p1,p2);
         L5.display();
     }
