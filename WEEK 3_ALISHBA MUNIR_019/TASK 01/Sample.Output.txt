@@ -1,0 +1,42 @@
+"C:\Program Files\Java\jdk-26\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1\lib\idea_rt.jar=51131" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\HelloEveryone\out\production\welcomeAlishba Main
+p1 = 
+x = 1.0 y = 1.0
+p2 = 
+x = 2.0 y = 7.0
+p3 = 
+x = 3.0 y = 6.0
+p4 = 
+x = 1.0 y = 1.0
+Set data
+p5 = 
+x = 1.0 y = 8.0
+Location =  
+x = 1.0 y = 1.0
+Add point
+x = 5.0 y = 13.0
+Subtract point
+x = -1.0 y = 1.0
+Multiply point
+x = 6.0 y = 42.0
+Divide point
+x = 2.0 y = 7.0
+Distance between two points =  1.41 
+ Point object count = 10
+Start Point = x = 0.0 y = 1.0End Point = x = 0.0 y = 2.0
+Total count = 5
+ Line 2 is :
+Start Point = x = 2.0 y = 7.0End Point = x = 3.0 y = 6.0
+Total count = 5
+Line 3 is :
+Start Point = x = 1.0 y = 1.0End Point = x = 1.0 y = 8.0
+Total count = 5
+ The Intersection is :
+x = 1.0 y = 8.0
+ Line 4 is :
+Start Point = x = 0.0 y = 1.0End Point = x = 0.0 y = 2.0
+Total count = 5
+ Set Line 5 is :
+Start Point = x = 1.0 y = 1.0End Point = x = 2.0 y = 7.0
+Total count = 5
+
+Process finished with exit code 0
