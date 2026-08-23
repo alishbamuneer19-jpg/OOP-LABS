@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-26\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1\lib\idea_rt.jar=61709" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\HelloEveryone\out\production\welcomeAlishba Main
+1st complex number: (3 + 4i)
+2nd complex number: (3 + 4i)
+3rd complex number: (5 + 6i)
+4th complex number: (3 + 4i)
+5th Set complex number: (6 + 8i)
+Add ComplexNumber = (8 + 10i)
+Subtract ComplexNumber = (-2 - 2i)
+Multiply ComplexNumber = (-9 + 38i)
+Divide ComplexNumber = (15 + 20i)
+conjugate c2 = (3 - 4i)
+Magnitude of c2 = 5
+Is c2 equal to c3 = false
+Total Objects = 10
+
+Process finished with exit code 0
