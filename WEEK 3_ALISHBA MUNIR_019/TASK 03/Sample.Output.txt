@@ -1,0 +1,25 @@
+"C:\Program Files\Java\jdk-26\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1\lib\idea_rt.jar=60825" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\HelloEveryone\out\production\welcomeAlishba Main
+1st Rational Number = 
+2/4
+2nd Rational Number = 
+1/2
+3rd Rational Number = 
+6/8
+4th Rational Number = 
+1/2
+5th Set Rational Number = 
+4/2
+Add Rational Number = 
+5/4
+Subtract Rational Number = 
+-1/4
+Multiply Rational Number = 
+3/8
+Divide Rational Number = 
+2/3
+2nd Rational Number into decimal = 
+0.5
+Is R1 equalsTo R2 = 
+false
+
+Process finished with exit code 0
